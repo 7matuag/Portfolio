@@ -40,7 +40,7 @@ const SocialLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "https://in.linkedin.com/in/gautam-tomar-1a2166203",
+      href: "/Gautam_tomar_Resume.pdf",
       style: "rounded-br-lg",
       download: true,
     },
